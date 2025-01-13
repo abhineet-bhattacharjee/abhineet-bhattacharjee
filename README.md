@@ -36,7 +36,6 @@ Hi! I'm **Abhineet 👋**, a passionate Python developer with over 2 years of ex
 ✨ _Let's collaborate and build something amazing together!_
 
 
-anshu | Python Developer:
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abhineet-bhattacharjee.abhineet-bhattacharjee&"  />
 </div>
