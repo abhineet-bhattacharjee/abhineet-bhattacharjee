@@ -18,7 +18,7 @@ Hi! I'm **Abhineet 👋**, a passionate Python developer with over 2 years of ex
 ## 🛠 Languages & Tools
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - **Python Libraries**: Pandas, Numpy, Matplotlib, PyGame, Tkinter, EasyOCR, Selenium, discord.py, TensorFlow
-- **Other Skills**: Conda, Git, SQL
+- **Other Skills**: Conda, SQL
 
 ---
 
