@@ -28,9 +28,6 @@ Hi! I'm **Abhineet 👋**, a passionate Python developer with over 2 years of ex
 
 ---
 
-## 🌐 Let's Connect!
-- **GitHub**: [@abhineet-bhattacharjee](https://github.com/abhineet-bhattacharjee)
-- **Email**: [abhineet.bhattacharjee@example.com](mailto:abhineetbhattacharjee@gmail.com)
 
 
 ✨ _Let's collaborate and build something amazing together!_
